@@ -80,6 +80,20 @@ cd where you clone the repo
 python app.py
 ```
 
+## Tech
+![](https://forthebadge.com/images/badges/made-with-python.svg)  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
+<br>
+
+
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)  [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)]()
+
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)   [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)   [<img target="_blank" src="https://miro.medium.com/max/791/1*Y2v3PrF1rUQRUHwOcXJznA.png" width=200>](https://numpy.org/) 
+<br>
+[<img target="_blank" src="https://miro.medium.com/max/875/1*IZfsipaDZITtnqIxkwfYug.png" width=200>](https://www.tensorflow.org/install)  [<img target="_blank" src="https://njtrainingacademy.com/wp-content/uploads/2019/02/keras-1.png?dae618&dae618" width=200>](https://pypi.org/project/Keras/)  
+
+
 ## Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
