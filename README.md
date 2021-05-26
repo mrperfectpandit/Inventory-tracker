@@ -15,23 +15,30 @@
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)  ![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
 
+## YOLO 
+
+<img  align='right' src="https://miro.medium.com/max/2792/1*VluiXEpyenaqzuBkhtY3iA.jpeg">
+
 ## Datasets 
 [The data is in video format](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) <br>
 
 ## Table of Content
   * [Overview](#Overview)
   * [Motivation](#Motivation)
-  * [Features](#Features)
-  * [Samples Pictures or Demo](#Samples-Pictures-or-Demo)
-  * [Video Demo](#Video-Demo)
+  * [Approach](#Approach)
+  * [Result](#Result)
   * [Installation and run](#Installation-and-run)
-  * [Contributing](#Contributing)
-  * [Directory Tree](#Directory-Tree)
   * [Tech](#Tech)
+  * [Contributing](#Contributing)
   * [Bug / Feature Request](#bug-feature-request)
 
 ## Overview
 This Project use the YOLOv4 object detection Algorithm to track the Person and clothes and identify the no. of counts of Process clothes for each workstation.
+
+## Motivation
+This is my Internship Project when i was working in ResoluteAI company with ML develpment team where i worked on different tracking systems i.e office_work_detection , jewellery _detection  , inventory_tracking. 
+
+
 
 ## Approach
 
