@@ -86,10 +86,9 @@ python app.py
 
 
 
-[<img  target='_blank' src="https://carlosan.me/uploads/OpenCV_Logo.png">](https://opencv.org/)
+[<img  target='_blank' src="https://1.bp.blogspot.com/-Y5Wc7U8mAsc/XzaJI0aZOXI/AAAAAAAAfls/SmCsSc7owCgfncCUczR7EkkJIg-Kjld1ACLcBGAsYHQ/s741/plus.PNG" width=170>](https://opencv.org/)
 
-
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)   [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)   [<img target="_blank" src="https://miro.medium.com/max/791/1*Y2v3PrF1rUQRUHwOcXJznA.png" width=200>](https://numpy.org/) 
+[<img target="_blank" src="https://miro.medium.com/max/791/1*Y2v3PrF1rUQRUHwOcXJznA.png" width=200>](https://numpy.org/) 
 <br>
 [<img target="_blank" src="https://miro.medium.com/max/875/1*IZfsipaDZITtnqIxkwfYug.png" width=200>](https://www.tensorflow.org/install)  [<img target="_blank" src="https://njtrainingacademy.com/wp-content/uploads/2019/02/keras-1.png?dae618&dae618" width=200>](https://pypi.org/project/Keras/)  
 
