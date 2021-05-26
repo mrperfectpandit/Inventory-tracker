@@ -20,7 +20,7 @@
 <img  align='right' src="https://miro.medium.com/max/2792/1*VluiXEpyenaqzuBkhtY3iA.jpeg">
 
 ## Datasets 
-[The data is in video format](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) <br>
+[The data is in video format](https://drive.google.com/file/d/1TkMhvOJFR1a-kpycSpu3pKOCTrepBAT-/view?usp=sharing) <br>
 
 ## Table of Content
   * [Overview](#Overview)
@@ -66,7 +66,7 @@ git clone https://github.com/mrperfectpandit/Inventory-tracker.git
 2.Make three folders in same path <br>
 
   
-  👉video_data --> put the video [dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) <br>
+  👉video_data --> put the video [dataset](https://drive.google.com/file/d/1TkMhvOJFR1a-kpycSpu3pKOCTrepBAT-/view?usp=sharing) <br>
   👉output --> will contain frames that extract from video_data by running app.py script <br>
   👉data --> put the save model that explort from saved_weights and some utils files. You will get these content in this [link](https://drive.google.com/file/d/15n4h2xpXIO3KmuZBwkXZenJWdRUniV1B/view?usp=sharing) <br>
   
