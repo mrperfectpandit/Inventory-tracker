@@ -41,10 +41,10 @@ This Project use the YOLOv4 object detection Algorithm to track the Person and c
 -->using LabelIMG we craete to categories 
    1. Throwing
    2. working<br>
-3.Use google colab for training our data-set. For training we use YOLOv4 custom object detector with Darkent in the Cloud.<br>
-4.After training save the best_weights and export our model.<br>
-5.Than perform fine-tuning and optimization of model using ROI.<br>
-6.Make final output video along its dashboard.
+3. Use google colab for training our data-set. For training we use YOLOv4 custom object detector with Darkent in the Cloud.<br>
+4. After training save the best_weights and export our model.<br>
+5. Than perform fine-tuning and optimization of model using ROI.<br>
+6. Make final output video along its dashboard.
 
 ## Result
 
@@ -61,5 +61,5 @@ This Project use the YOLOv4 object detection Algorithm to track the Person and c
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/mrperfectpandit/tech-health-lab-/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/mrperfectpandit/inventory-tracker/issues) here by including your search query and the expected result
 
