@@ -89,8 +89,6 @@ python app.py
 [<img  target='_blank' src="https://1.bp.blogspot.com/-Y5Wc7U8mAsc/XzaJI0aZOXI/AAAAAAAAfls/SmCsSc7owCgfncCUczR7EkkJIg-Kjld1ACLcBGAsYHQ/s741/plus.PNG" width=170>](https://opencv.org/)
 [<img target = "_blank" src = "https://blog.education-ecosystem.com/wp-content/uploads/2021/01/1_Lad06lrjlU9UZgSTHUoyfA.png" width=200>](https://colab.research.google.com/)
 
-[<img target = "_blank" src = " https://steemitimages.com/p/7ohP4GDMGPrUMp8dW6yuJTR9MKNu8P8DCXDU9qmmiG7g5LjQJJwHxpfMUguGNRSxCPnZMBDkgvWx4LaZKisLXq8xCRrc29EM91Ef?format=match&mode=fit&width=640">]
-
 [<img target="_blank" src="https://miro.medium.com/max/791/1*Y2v3PrF1rUQRUHwOcXJznA.png" width=200>](https://numpy.org/) 
 <br>
 [<img target="_blank" src="https://miro.medium.com/max/875/1*IZfsipaDZITtnqIxkwfYug.png" width=200>](https://www.tensorflow.org/install)  [<img target="_blank" src="https://njtrainingacademy.com/wp-content/uploads/2019/02/keras-1.png?dae618&dae618" width=200>](https://pypi.org/project/Keras/)  
