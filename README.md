@@ -42,11 +42,11 @@ This Project use the YOLOv4 object detection Algorithm to track the Person and c
    1. Throwing
    2. working<br>
 3.Use google colab for training our data-set. For training we use YOLOv4 custom object detector with Darkent in the Cloud.<br>
-4.After training save the best_weights and export our model.
-5.Than perform fine-tuning and optimization of model using ROI.
+4.After training save the best_weights and export our model.<br>
+5.Than perform fine-tuning and optimization of model using ROI.<br>
 6.Make final output video along its dashboard.
 
 ## Result
 
-![](final_result_first_run.mp4)
+![result](final_result_first_run.mp4)
 
