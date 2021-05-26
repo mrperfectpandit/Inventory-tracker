@@ -56,10 +56,10 @@ This Project use the YOLOv4 object detection Algorithm to track the Person and c
 ```sh
 git clone https://github.com/mrperfectpandit/Inventory-tracker.git
 ```
-2.Make three folders in same path 
+2.Make three folders in same path <br>
   1.video_data --> put the video [dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) <br>
-  2.output --> will contain frames that extract from video_data by running app.py script
-  3.data --> put the save model that explort from saved_weights and some utils files. You will get these content in this [link](https://drive.google.com/file/d/15n4h2xpXIO3KmuZBwkXZenJWdRUniV1B/view?usp=sharing)
+  2.output --> will contain frames that extract from video_data by running app.py script <br>
+  3.data --> put the save model that explort from saved_weights and some utils files. You will get these content in this [link](https://drive.google.com/file/d/15n4h2xpXIO3KmuZBwkXZenJWdRUniV1B/view?usp=sharing) <br>
 
 The Code is written in Python 3.7.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/) and Tensorflow 2.3. If you are using a lower version of Python and Tensorflow you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
